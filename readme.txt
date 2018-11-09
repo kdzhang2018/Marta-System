@@ -1,10 +1,3 @@
-Team 16 info:
-Zhang, Kaidi	
-Li, Houbao	
-Wang, Tong	
-Zhang, Xinyu	
-Han, Ruochen	
-
 Backend Java code: 
 /source_code/Marta_Sym/src/edu
 DB	Handles postgreSQL setup
